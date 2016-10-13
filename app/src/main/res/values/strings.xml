@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ListView</string>
+    <string name="main_activity_description">A ListView possui como base os adapters.\nNeste exemplo temos duas implementações de adaptes:</string>
+</resources>
